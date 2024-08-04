@@ -1,5 +1,5 @@
 ### Hi, Bem Vindo! 🖖🏻
-#### Este é meu repositorio pessoal, atualmente estou trabalhando como Dev FrontEnd em um repositorio fechado, qualquer coisa pode me chamar no Whatsapp.
+#### Este é meu repositorio pessoal, atualmente estou trabalhando como Desenvolvedor nas empresas Segmedic e Clubflex em repositorio fechado, qualquer coisa pode me chamar no Whatsapp.
 
 #### Contatos
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
