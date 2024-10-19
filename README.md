@@ -46,13 +46,13 @@
 	  <img align="center" alt="wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 	</div>
 	<br>
-	<p > 
+<!-- 	<p > 
 	  <img margin="2em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSis&layout=compact&langs_count=7&theme=dark"/>
-	</p>
+	</p> -->
 </div>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiogoSis&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
-| ----------- | ----------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiogoSis&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSis&layout=compact&langs_count=7&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- | ----------- |
 
 
 <div align="center">
