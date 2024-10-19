@@ -51,8 +51,11 @@
 	</p> -->
 </div>
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiogoSis&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSis&layout=compact&langs_count=7&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+|[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSis&layout=compact&langs_count=7&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|
 | ----------- | ----------- | ----------- |
+
+|[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiogoSis&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|
+| ----------- | ----------- |
 
 
 <div align="center">
