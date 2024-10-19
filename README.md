@@ -1,6 +1,7 @@
 ### Hi, Bem Vindo! 🖖🏻
 #### Este é meu repositorio pessoal, atualmente estou trabalhando como Desenvolvedor nas empresas Segmedic e Clubflex em repositorio fechado, qualquer coisa pode me chamar no Whatsapp.
 
+
 #### Contatos
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 	)](https://www.diogoluna.cloud)
@@ -49,6 +50,10 @@
 	  <img margin="2em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSis&layout=compact&langs_count=7&theme=dark"/>
 	</p>
 </div>
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DiogoSis&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- |
+
 
 <div align="center">
 	<br>
