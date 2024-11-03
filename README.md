@@ -63,7 +63,7 @@
 	<p align="centre"><b>Contagem de Visitantes</b></p>  
 	<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DiogoSis}/count.svg" /></p> 
 	<br>
-	<h5> ### "This is the way!"</h5>
+	<h5>"This is the way!"</h5>
 </div>
 
 
