@@ -21,8 +21,8 @@
 </div>
 
 
-#### Tecnologias e Frameworks 
-<!-- <div style="display: inline-block"><br/>
+<!--#### Tecnologias e Frameworks 
+ <div style="display: inline-block"><br/>
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img aling="center" alt="CSS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -30,7 +30,7 @@
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div> -->
 
-<div align="center">
+<!--<div align="center">
 	<div style="display: inline_block"><br>
 	  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 	  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -46,10 +46,11 @@
 	  <img align="center" alt="wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 	</div>
 	<br>
-<!-- 	<p > 
+ 	<p > 
 	  <img margin="2em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoSis&layout=compact&langs_count=7&theme=dark"/>
-	</p> -->
+	</p> 
 </div>
+-->
 
 |[![GitHub Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoSis&layout=compact&langs_count=7&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoSis&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)|
 | ----------- | ----------- | ----------- |
